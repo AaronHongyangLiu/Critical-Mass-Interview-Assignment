@@ -19,6 +19,9 @@
    ```
 
 ## Inspiration:
+I was trying to find a good curve fitting library in C# the other day, and I came across this [csmpfit](https://github.com/cureos/csmpfit) project. 
+
+This is a c# makeover of a C-based library. The purpose of this porject, which is just to provide an interface to a library that's targeting at a differet language, inspirs me a little bit. I know there are lots of "makeover" libraries. Why don't we just porvide some sort of "translator" that could translate any foreign language library instead of a specific one, to a native language so it could be used.
 
 ## Focus:
 If I could build/learn anything I could, I'm thinking about building some machine learining related projects. 
@@ -29,3 +32,4 @@ This is just a rough idea I have in my mind right now. I'll definitely need to d
 
 ## Code Challenge:
 Both funciton returns the result array, [Link here](https://codepen.io/aaroncoolliu/pen/pLYvQq)
+.
