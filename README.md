@@ -21,6 +21,11 @@
 ## Inspiration:
 
 ## Focus:
+If I could build/learn anything I could, I'm thinking about building some machine learining related projects. 
+
+I'll firstly need to learn the basics of machine learning, of cource. Then, I want to build something that could "learn" some perodic data (e.g. weather reports for the 10 years) so that it could reconginze some points or data that are "unnatural" which chould have some special meanings (e.g. weather after a huge fire). 
+
+This is just a rough idea I have in my mind right now. I'll definitely need to do some researches to see if there already are things similar and things that could be useful.
 
 ## Code Challenge:
 Both funciton returns the result array, [Link here](https://codepen.io/aaroncoolliu/pen/pLYvQq)
